@@ -1,7 +1,7 @@
-// import { Product } from './product';
+import { Product } from './product';
 
-// export class Item {
-//     product: Product;
-//     quantity: number;
+export class Item {
+    product: Product;
+    quantity: number;
 
-// }
+}
